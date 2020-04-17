@@ -46,7 +46,7 @@ sugar我没有 不知道用了会不会404
 
 策略偏好选REJECT（不用选也可以，默认REJECT）
 
-目前Bug：分流30000+ 会出现误杀的状况！！！！会导致部分app 网络出现异常 多刷新几次
+目前Bug：由于分流几万条 会出现误杀的状况！！！！会导致部分app 网络出现异常 多刷新几次
 
-添加30000+分流时有AdRule.list；Advertising.list；AdRuleTest.list 
+如果分流时有AdRule.list；Advertising.list；AdRuleTest.list 
 请全部选择禁用它 不然会出现重复规则！！！！！
