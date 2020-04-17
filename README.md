@@ -10,6 +10,7 @@ https://github.com/privacy-protection-tools/anti-AD
 原作者地址:
 https://github,Reject/vokins/yhosts
 
+原作者：大圣净化（国内视频网站）
 希望大家喜欢这个小小的改动，也感谢这位作者，把好的东西带给大家，谢谢你
 
 在这里也要感谢
@@ -25,5 +26,5 @@ sugar我没有 不知道用了会不会404
 
 目前Bug：分流30000+ 会出现误杀的状况！！！！会导致部分app 网络出现异常 多刷新几次
 
-如果分流有AdRule.list；Advertising.list；AdRuleTest.list 
+添加30000+分流时有AdRule.list；Advertising.list；AdRuleTest.list 
 请全部选择禁用它 不然会出现重复规则！！！！！
