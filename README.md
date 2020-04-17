@@ -6,6 +6,7 @@ AD是基于这位gentlyxu作者的Sugar版本改变而来的quantumult X版本
 https://github.com/privacy-protection-tools/anti-AD
 
 屏蔽国内网站广告是基于这位yhosts作者的hosts版本改变而来的quantumult X版本
+
 原作者地址:
 https://github,Reject/vokins/yhosts
 希望大家喜欢这个小小的改动，也感谢这位作者，把好的东西带给大家，谢谢你
