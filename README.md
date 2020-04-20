@@ -1,22 +1,19 @@
 你们好，我叫叶子 这是我第一次在Github的论坛上发表东西，不知道发表的文章是否好与坏，请大家喷轻点 
 
-
-#AD是基于这位gentlyxu作者的Sugar版本改变而来的quantumult X版本
-
-原作者地址：
-https://github.com/privacy-protection-tools/anti-AD
-
-
-#屏蔽国内网站广告是基于这位yhosts作者的hosts版本改变而来的quantumult X版本
+（去广告合集合并）#屏蔽国内网站广告是基于这位yhosts作者的hosts版本改变而来的quantumult X版本
 
 原作者地址:
 https://github,Reject/vokins/yhosts
 
 
-#国内视频网站是基于大圣净化的hosts版本改变而来的quantumult X版本
+（去广告合集合并）#国内视频网站是基于大圣净化的hosts版本改变而来的quantumult X版本
 
 原作者：大圣净化（国内视频网站）业内一流的拦截广告大厂
 
+#AD是基于这位gentlyxu作者的Sugar版本改变而来的quantumult X版本
+
+原作者地址：
+https://github.com/privacy-protection-tools/anti-AD
 
 #国内屏蔽挖矿统计 JS&360&百度&法轮功等是基于neoFelhz作者的hosts版本改变而来的quantumult X版本
 
