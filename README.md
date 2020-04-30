@@ -7,7 +7,7 @@ https://github.com/privacy-protection-tools/anti-AD
 
 #综合多种源集合体屏蔽广告跟踪和恶意软件是基于hectorm作者的hosts版本改变而来的quantumult X版本
 
-这个二十万的分流可以在QantumultX(TF测试版)完美使用 暂时没有Bug
+👉👉这个综合多种屏蔽广告的二十万分流规则可以在QantumultX(TF测试版)完美使用 暂时没有Bug
 
 原作者地址：https://github.com/hectorm/hblock
 
