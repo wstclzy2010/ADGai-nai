@@ -1,6 +1,6 @@
 你们好，我叫叶子 这是我第一次在Github的论坛上发表东西，不知道发表的文章是否好与坏，请大家喷轻点 
 
-#AD-yer.list是基于这位国内gentlyxu作者的Sugar版本改变而来的quantumult X版本 （分流规则90115）
+#AD-yer.list是基于这位国内gentlyxu作者的Sugar版本改变而来的quantumult X版本 （分流规则90，115）
 
 原作者地址：https://github.com/privacy-protection-tools/anti-AD
 
@@ -9,7 +9,7 @@
  
 StevenBlack作者地址：https://github.com/StevenBlack/hosts
 
-#综合多种源集合体屏蔽广告跟踪和恶意软件是基于hectorm作者的hosts版本改变而来的quantumult X版本
+#综合多种源集合体屏蔽广告跟踪和恶意软件是基于hectorm作者的hosts版本改变而来的quantumult X版本 （分流规则250，955）
 
 原作者地址：https://github.com/hectorm/hblock
 
