@@ -5,7 +5,7 @@
 原作者地址：https://github.com/privacy-protection-tools/anti-AD
 
 注意！！！！（其中Stevenblack作者的拦截国外广告分流规则我已经合并到AD文件下，国内国外去广告相结合能有效的给大家带来更好的玩机体验 
- 所以订阅AD-yer分流就可以了
+ 所以订阅AD-yer分流就可以了）
  
 StevenBlack作者地址：https://github.com/StevenBlack/hosts
 
