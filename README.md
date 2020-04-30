@@ -1,13 +1,13 @@
 # 你们好，我叫叶子 这是我第一次在Github的论坛上发表东西，不知道发表的文章是否好与坏，请大家喷轻点 
 
 -----------------------------------------------------------------------------------------------
-# Zhuliyer.list正常去广告 （内测版本/商店版 ）都可以用
+# Zhuliyer.list  正常去广告 （内测版本/商店版 ）都可以用
 
-# China.list 国内网站 选择策略DIRECT 直连
+# China.list  国内网站 选择策略DIRECT 直连
 
-# Global.list 国外网站 选择策略PROXY 代理
+# Global.list  国外网站 选择策略PROXY 代理
 
-# Hijacking 运营商拦截 选择策略REJECT 拦截
+# Hijacking  运营商拦截 选择策略REJECT 拦截
 
 # LAN.list  IP直连 选择策略DIRECT 直连
 
