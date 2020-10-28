@@ -1,4 +1,9 @@
 # (DNS Cache Pollution Protection)
+# > WildRift
+# 2020.10.28  16.13
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,wr.pvp.net
+DOMAIN-SUFFIX,riotgames.com
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
