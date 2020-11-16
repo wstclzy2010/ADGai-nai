@@ -1,4 +1,13 @@
 # China Area Network
+# > Search
+DOMAIN-SUFFIX, aneeo.com, DIRECT
+DOMAIN-SUFFIX, www.magedn.com, DIRECT
+DOMAIN-SUFFIX, mb3admin.com, DIRECT
+DOMAIN-SUFFIX, ip6.ssl.msdk.qq.com, DIRECT
+DOMAIN-SUFFIX, log.snssdk.com, DIRECT
+DOMAIN-SUFFIX, www.pianku.tv, DIRECT
+;ip-cidr, 8.8.8.8/32, proxy
+
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
