@@ -7,7 +7,7 @@ https://api.yikeapp.com url script-request-body https://raw.githubusercontent.co
 
 [task_local]
 0,30 0-12 * * * https://raw.githubusercontent.com/Zhuliyer/ADGai-nai/master/Quantumult%20X/Scripts/yike.js, tag=一刻, 
-hostname  =  api.yikeapp.com
+hostname  =  http://api.yikeapp.com
 
 */
 
