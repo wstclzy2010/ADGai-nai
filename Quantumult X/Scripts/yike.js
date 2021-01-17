@@ -1,14 +1,13 @@
 /*
 打开'我的'获取Cookie
-邀请码：12642334
 
 [rewrite_local]
 #一刻视频
-https://api.yikeapp.com url script-request-body https://raw.githubusercontent.com/age174/-/main/yike.js
+https://api.yikeapp.com url script-request-body https://raw.githubusercontent.com/Zhuliyer/ADGai-nai/master/Quantumult%20X/Scripts/yike.js
 
 [task_local]
-0,30 0-12 * * * yike.js, tag=一刻, 
-hostname  =  http://api.yikeapp.com
+0,30 0-12 * * * https://raw.githubusercontent.com/Zhuliyer/ADGai-nai/master/Quantumult%20X/Scripts/yike.js, tag=一刻, 
+hostname  =  api.yikeapp.com
 
 */
 
