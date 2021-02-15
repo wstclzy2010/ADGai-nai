@@ -2,7 +2,7 @@ var str = ($response.body);
 
 str = str.match(/:&#x2f;&#x2f;(\S*)"}/)[1].replace(/&#x2f;/g, '/').replace(/&amp;/g, '&').split("\"")[0]
 let opener = str.indexOf("m.tb.cn") != -1 ? "taobao://" + str: ($response.body)
-let opener = str.indexOf("com") != -1 ? "com://" + str: ($response.body)
+let opener = str.indexOf("*.com") != -1 ? "com://" + str: ($response.body)
 //console.log(str);
 
 const $ = new cmp()
@@ -10,7 +10,7 @@ const $ = new cmp()
 if (str.indexOf("m.tb.cn") != -1) {
     $.notify(``, "", "🛍️点击打开淘宝", opener)
 } else if (str.indexOf("如需浏览")) {
-if (str.indexOf("com") != -1) {
+if (str.indexOf("*.com") != -1) {
     $.notify(``, "", "🤩点击打开com", opener)
 } else if (str.indexOf("如需浏览")) {
 
