@@ -1,3 +1,5 @@
+hostname=weixin.110.qq.com
+
 var str = ($response.body);
 
 str = str.match(/:&#x2f;&#x2f;(\S*)"}/)[1].replace(/&#x2f;/g, '/').replace(/&amp;/g, '&').split("\"")[0]
@@ -7,13 +9,9 @@ let opener = str.indexOf("*.com") != -1 ? "*.com://" + str: ($response.body)
 
 const $ = new cmp()
 
-if (str.indexOf("m.tb.cn") != -1) {
-    $.notify(``, "", "🛍️点击打开淘宝", opener)
+if (str.indexOf("m.tb.cn","*.com") != -1) {
+    $.notify(``, "", "😂点击打开", opener)
 } else if (str.indexOf("如需浏览")) {
-if (str.indexOf("*.com") != -1) {
-    $.notify(``, "", "🤩点击打开com", opener)
-} else if (str.indexOf("如需浏览")) {
-
     $.notify(``,"", "🔗点击打开链接", "https://"+str)
 }
 
